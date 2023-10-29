@@ -1,0 +1,41 @@
+Describe the steps for comprehensively testing of a pencil with an eraser on one
+end. Cases for all types of testing (such as functional, usability, performance, load,
+stress, security, etc.) are expected here.
+
+
+Test cases for a pencil with an eraser on one
+
+functional:
+1. check if the pencil can write
+2. check if it is possible to erase what was written
+3. check if it's possible to sharpen it
+4. check if sharpen on both sides
+5. check the pencil during storage and transfer(one and more pencils)
+6. check the different colours of pencils
+7. is it possible to take it in your hand/ to another hand?
+
+
+usability:
+1. check if  pencil is convenient to write
+2. check if it's convenient to sharpen
+3. check what are we holding on to
+4. check what size is it
+
+
+performance:
+1. check how long pencil and eraser can be used
+2. check behaviour if using pencil 24/7
+
+load:
+1. check behaviour with pressure during using a eraser
+2. check behaviour with pressure during using a pencil
+
+stress:
+1. check behaviour with dropping a pencil
+2. check behaviour with tearing the eraser off the pencil
+3. check behaviour with breaking the lead
+4. check behaviour with bending the pencil
+
+security:
+1. if bite/chew/swallow, will you get poisoned?
+2. is it possible to cause harm with a pencil?

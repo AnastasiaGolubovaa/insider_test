@@ -1,0 +1,23 @@
+On the Main page of https://www.hepsiburada.com/ you can see the different
+Recommendations section with different products. These sections are also shown on
+Product Detail and Cart pages. What are these product suggestions, what is the rule
+for listing these products and showing them to the user? Full analysis is expected
+here.
+
+
+
+--Recommendations section --
+1. Personalized recommendations: Many websites use algorithms to analyze a user's browsing and purchase history.
+These algorithms then recommend products that are most likely to be of interest to that specific user.
+2. Popular products: Some recommendations are based on what's popular or trending on the website at that moment.
+These products might be bestsellers or got good reviews.
+3. Related products: Recommendations are often based on the product you're currently viewing.
+4. Recently viewed items: Websites often show products you've recently viewed to remind you of items you've shown interest in.
+
+--Product Detail and Cart pages--
+
+1. Behavior analysis: To provide personalized recommendations, e-commerce websites collect and analyze user data, including browsing history, search queries, and past purchase behavior. They use this data to make predictions about what products a user might be interested in.
+2. Collaborative filtering:This technique identifies users who have similar behaviors and preferences.
+3. Filtering by content: This method looks at the attributes of products and matches them to a user's preferences.
+4. A/B testing: websites might test different recommendation algorithms, and than decide where more decide which is more effective.
+5. Diversity: Recommendations aim to strike a balance between showing products that are highly relevant to the user and important for bussines.
