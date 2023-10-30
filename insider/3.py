@@ -104,37 +104,6 @@ def test_quality_assurance_page(browser):
     # print(f"Number of job listings found: {num_job_listings}")
 
 
-
-
-
-
-
-
-
-# def test_quality_assurance_page(browser):
-#     quality_assurance_url = "https://useinsider.com/careers/quality-assurance//"
-#     browser.get(quality_assurance_url)
-#
-#     accept_cookies = browser.find_element(By.XPATH, "//a[@id='wt-cli-accept-all-btn']")
-#     accept_cookies.click()
-#
-#     see_all_qa_jobs_button = browser.find_element(By.XPATH, "//a[contains(text(), 'See all QA jobs')]")
-#     see_all_qa_jobs_button.click()
-#
-#
-#     location_filter = browser.find_element(By.XPATH, "//span[@id='select2-filter-by-location-container']")
-#     location_filter.click()
-#
-#
-#     location_option = browser.find_element(By.XPATH, "//span[@id='select2-filter-by-department-container']")
-#     location_option.click()
-
-
-
-
-
-
-
 # 4
 # 5
 
